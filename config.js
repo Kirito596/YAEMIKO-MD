@@ -28,41 +28,41 @@ const readMore = more.repeat(4001)
 
 global.kyoukakey = "Your Apikey" //Register https://dash.api-kyouka.my.id/ Free Register 75 Limit Silaka boleh buat multi account untuk banyak apikey Asalkan gunakan dengan bijak 
 global.owner = [
-['62895627413377', true],
-['628889616144', true],
-['6285861790206', 'Zeltoria', true] // ganti aja
+['491777062822', true],
+['493023180366', true],
+['491777062822', '𝓐𝓻𝓬𝓱𝓮𝓻', true] // ganti aja
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283872069307' // ini juga
-global.nomorown = '62895627413377' // ini juga
-global.nomorown1 = '62895627413377' // ini juga
-global.nomorown2 = '62895627413377' // ini juga
+global.nomorbot = '4917770628220' // ini juga
+global.nomorown = '491777062822' // ini juga
+global.nomorown1 = '491777062822' // ini juga
+global.nomorown2 = '493023180366' // ini juga
 global.nomorwa = '0'
 
 
 global.readMore = readMore
-global.author = 'Zeltoria'
+global.author = '𝓐𝓻𝓬𝓱𝓮𝓻'
 global.namebot = '​Yaemiko-MD'
-global.wm = '© Yaemiko By Zeltoria'
+global.wm = '© Yaemiko By 𝓐𝓻𝓬𝓱𝓮𝓻'
 global.media = 'https://telegra.ph/file/d368a50703e77d972118b.jpg'
 global.watermark = wm
-global.wm2 = 'Zeltoria'
+global.wm2 = '𝓐𝓻𝓬𝓱𝓮𝓻'
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.bottime = `Time: ${wktuwib}`
 global.titlebot = `Yaemiko-Multidevice`
 global.stickpack = 'Yaemiko By'
-global.stickauth = `©Zeltoria`
+global.stickauth = `${pushName}`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
-global.nameown1= 'Zeltoria'
-global.nameown2 = 'Zeltoria'
+global.nameown1= '𝓐𝓻𝓬𝓱𝓮𝓻'
+global.nameown2 = 'Max'
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/'
 //Link Social Media Ganti Aja Kalau Ga Punya Biarin Aja
-global.sig = 'https://www.instagram.com/danilelistz02' //instagram
-global.sgh = 'https://github.com/Zeltoria' //github
-global.sgc = 'https://chat.whatsapp.com/FcV0KFRw5gv99xgVgOx3cc' //group whatsapp
+global.sig = 'https://www.instagram.com/' //instagram
+global.sgh = 'https://github.com/Kirito596 //github
+global.sgc = 'https://chat.whatsapp.com/LPH7g7UTSZO0RH9ZRqBm7D' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://www.youtube.com/' //youtube
 //Donasi/Payment
@@ -272,7 +272,7 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'Instagram'
-global.urlnya = "https://www.instagram.com/danilelistz02"
+global.urlnya = "https://www.instagram.com/"
 global.dtc = 'Call Owner'
 global.phn = '0813 8730 7198'
 
